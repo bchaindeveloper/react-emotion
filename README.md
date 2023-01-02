@@ -1,4 +1,4 @@
-# CodeCademy Projcet: Front-End Engineer Career Path
+# react-emotion
 
 Learn how to apply CSS-in-JS to your React app with the Emotion library.
 
